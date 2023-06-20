@@ -19,7 +19,7 @@ this is a responsive HTML/CSS template
 
 ![Screenshot 4](temp3/sec4.png)
 
-![Screenshot 4](temp3/sec5.png)
+![Screenshot 4](temp3/sec5png.png)
 
 ## Usage
 

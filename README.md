@@ -11,15 +11,9 @@ this is a responsive HTML/CSS template
 
 ## Preview
 
-![Screenshot 1](temp3/sec1.png)
+![Screenshot 1](temp3/template3.png)
 
-![Screenshot 2](temp3/sec2.png)
 
-![Screenshot 3](temp3/sec3.png)
-
-![Screenshot 4](temp3/sec4.png)
-
-![Screenshot 4](temp3/sec5png.png)
 
 ## Usage
 
